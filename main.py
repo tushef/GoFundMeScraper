@@ -1,7 +1,9 @@
-###########################################################
-# GoFundMe Scraping Project                            #
-# Author: Fatjon Tushe                                    #
-###########################################################
+"""
+GoFundMe Scraping Project
+    @author: Fatjon Tushe
+    January 2021
+    Project For Personal Portfolio
+"""
 
 from bs4 import BeautifulSoup
 import time
