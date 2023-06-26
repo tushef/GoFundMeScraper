@@ -1,7 +1,7 @@
 """
 GoFundMe Scraping Project
     @author: Fatjon Tushe
-    January 2021
+    November 2021
     Project For Personal Portfolio
 """
 
