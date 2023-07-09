@@ -1,5 +1,5 @@
 # GoFundMeScraper
-Collecting data on Go Fund Me Fundraisers. THe data can be used for Sentiment Analysis, Marketing Analysis and potentially identifying current problems in modern Medicine which cause unaffordable treatments
+Collecting data on Go Fund Me Fundraisers. The data can be used for Sentiment Analysis, Marketing Analysis and potentially identifying current problems in modern Medicine which cause unaffordable treatments
 
 o Using selenium for automated bot tasks, BeautifulSoup 4 for scraping and pandas for data manipulation
 
